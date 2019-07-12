@@ -2,7 +2,7 @@
 Repository for ASJ Autumn 2019: RNN-based dimensional speech emotion recognition
 
 Contents:
-- (python) codes
+- (python) codes, main script: ser_api_egemaps_rnn.py
 - full paper
 - presentation
 

@@ -1,4 +1,4 @@
-# ASJ Autumn 2019: dimensional speech emotion recognition from acoustic feature and word embedding
+# ASJ Autumn 2019: RNN-based dimensional speech emotion recognition
 
 import numpy as np
 import matplotlib.pyplot as plt

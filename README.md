@@ -7,4 +7,7 @@ Contents:
 - presentation: `bagus_asj-autumn2019.pdf`
 
 Citation:  
-Bagus Tris Atmaja, Reda Elbarougy, and Masato Akagi. "RNN-based dimensional speech emotion recognition". Acoustical Society of Japan (ASJ) Meeting Autumn 2019. Shiga-Japan, Sept. 2019.
+~~~
+Bagus Tris Atmaja, Reda Elbarougy, and Masato Akagi. "RNN-based dimensional speech emotion recognition".
+Acoustical Society of Japan (ASJ) Meeting Autumn 2019. Shiga-Japan, Sept. 2019.
+~~~
